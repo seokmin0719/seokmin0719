@@ -3,8 +3,10 @@
 
 <h3 align="center">?</h3>
 <p align="center">
-     I am an undergraduate student majoring in Electronic Engineering at Kyungpook National University.<br>
+  <pre>
+     I am an undergraduate student majoring in Electronic Engineering at Kyungpook National University.
      I am interested in Autonomous driving, Mobile robotics, and Embedded systems.
+  </pre>
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
