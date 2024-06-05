@@ -2,12 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcom&fontsize=90&desc=SeokMin's%20github&descAlign=65&descAlignY=65&descSize=25)
 
 <h3 align="center">?</h3>
-<p align="center">
-  <pre>
+<pre align="center">
+  <!-- <pre> -->
      I am an undergraduate student majoring in Electronic Engineering at Kyungpook National University.
      I am interested in Autonomous driving, Mobile robotics, and Embedded systems.
-  </pre>
-</p>
+  <!-- </pre> -->
+</pre>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
