@@ -1,25 +1,10 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**seokmin0719/seokmin0719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcom&fontsize=90&desc=SeokMin's%20github&descAlign=65&descAlignY=65&descSize=25)
 
 <h3 align="center">?</h3>
 <p align="center">
-     I am an undergraduate student majoring in Electronic Engineering at Kyungpook National University. I am interested in Autonomous driving, Mobile robotics, and Embedded systems.
+     I am an undergraduate student majoring in Electronic Engineering at Kyungpook National University.<br>
+     I am interested in Autonomous driving, Mobile robotics, and Embedded systems.
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
