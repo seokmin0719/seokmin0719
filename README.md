@@ -1,10 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcom&fontsize=90&desc=SeokMin's%20github&descAlign=65&descAlignY=65&descSize=25)
 
-<h3 align="center">?</h3>
+<h3 align="center"> </h3>
 <pre align="center">
-     I am an undergraduate student majoring in Electronic Engineering at Kyungpook National University.
-     I am interested in Autonomous driving, Mobile robotics, and Embedded systems.
+     I am interested in Embedded systems, Autonomous driving and Mobile robotics.
 </pre>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -32,5 +31,5 @@
 
 
 <p align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokmin0719%2Fseokmin0719&count_bg=%2379C83D&title_bg=%23555555&icon=highly.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fseokmin0719%2Fseokmin0719?color=blue&label=hits&size=small" alt="hits" /></a>
 </p>
